@@ -1,3 +1,4 @@
+#Done by M Harish AIML-A 231501058
 from collections import deque
 def BFS(a, b, target):
     m = {}
@@ -62,3 +63,4 @@ if __name__ == "__main__":
     Jug1, Jug2, target = 4, 3, 2
     print("Path from initial state to solution state ::")
     BFS(Jug1, Jug2, target)
+#Done by M Harish AIML-A 231501058

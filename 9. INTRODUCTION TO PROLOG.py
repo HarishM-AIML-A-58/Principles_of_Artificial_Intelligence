@@ -1,5 +1,5 @@
 '''
-
+#Done by M Harish AIML-A 231501058
 KB1:
 
 woman(mia). 
@@ -87,3 +87,4 @@ yes.
 yes.
 | ?- likes(john,food). 
 no.
+#Done by M Harish AIML-A 231501058

@@ -1,3 +1,4 @@
+#Done by M Harish AIML-A 231501058
 from collections import deque
 
 class Graph:
@@ -67,3 +68,4 @@ adjacency_list = {
     'A': [('B', 1), ('C', 3)],  'B': [('D', 1)], 'C': [('D', 12)] }
 graph1 = Graph(adjacency_list)
 graph1.a_star_algorithm('A', 'D')
+#Done by M Harish AIML-A 231501058

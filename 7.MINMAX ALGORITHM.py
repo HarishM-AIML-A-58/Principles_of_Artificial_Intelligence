@@ -1,3 +1,4 @@
+#Done by M Harish AIML-A 231501058
 import math
 def minimax(curDepth, nodeIndex, maxTurn, scores, targetDepth): 
     if curDepth == targetDepth:
@@ -15,3 +16,4 @@ treeDepth = int(math.log2(len(scores)))
 
 
 print("The optimal value is:", end=" ") print(minimax(0, 0, True, scores, treeDepth))
+#Done by M Harish AIML-A 231501058

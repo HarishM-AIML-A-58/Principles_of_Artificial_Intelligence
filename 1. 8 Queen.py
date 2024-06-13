@@ -1,3 +1,5 @@
+#Done by M Harish AIML-A 231501058
+
 N = 8  # size of the chessboard
 
 def solveNQueens(board, col):
@@ -27,3 +29,4 @@ def isSafe(board, row, col):
 board = [[0 for x in range(N)] for y in range(N)]
 if not solveNQueens(board, 0):
     print("No solution found")
+#Done by M Harish AIML-A 231501058

@@ -1,3 +1,4 @@
+#Done by M Harish AIML-A 231501058
 MAX, MIN = 1000, -1000
 
 def minimax(depth, nodeIndex, maximizingPlayer, values, alpha, beta):
@@ -26,3 +27,4 @@ def minimax(depth, nodeIndex, maximizingPlayer, values, alpha, beta):
 if __name__ == "__main__":
     values = [3, 5, 6, 9, 1, 2, 0, -1]
     print("The optimal value is:", minimax(0, 0, True, values, MIN, MAX))
+#Done by M Harish AIML-A 231501058

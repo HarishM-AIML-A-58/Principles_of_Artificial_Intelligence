@@ -1,4 +1,5 @@
 
+#Done by M Harish AIML-A 231501058
 import numpy as np
 import skfuzzy as fuzz
 from skfuzzy import control as ctrl
@@ -32,3 +33,4 @@ car_speed.compute()
 
 # Print the computed speed
 print("Computed speed:", car_speed.output['speed'])
+#Done by M Harish AIML-A 231501058
